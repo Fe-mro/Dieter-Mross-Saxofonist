@@ -17,7 +17,7 @@
       'nav-benefits': 'Vorteile',
       'nav-contact': 'Kontakt',
       'hero-subtitle': 'Saxophonist · Baden-Württemberg',
-      'hero-title': 'Dieter Mross –<br>Professioneller Saxophonist<br>für Ihre Veranstaltung<br>',
+      'hero-title': 'Dieter Mross –<br>Professioneller Saxophonist<br>für Ihre Veranstaltung',
       'hero-text': 'Exzellente Saxophon-Unterhaltung für jeden Anlass: Von intimen Abendveranstaltungen bis hin zu großen Hochzeiten und Geburtstagen. Flexibles Repertoire, professionelle Auftritte und musikalische Vielseitigkeit.',
       'hero-btn': 'Unverbindlich anfragen',
       'video-title': 'Eindrücke & Livemitschnitte',
@@ -32,9 +32,15 @@
       'card1-title': 'Solo-Performance mit Playalongs',
       'card1-text': 'Intimes Saxophon-Solo, unterstützt mit über <strong>400 hochwertigen Playalongs</strong> aus den Bereichen Pop, Jazz, Samba, Latin und Filmmusik. Perfekt für Cocktail-Partys, Hintergrundmusik bei Empfängen oder gastronomische Umgebungen.',
       'card2-title': 'Das Duo',
-      'card2-text': 'Die elegante Kombination aus Saxophon und Gitarre oder Klavier. Ideal für Hochzeiten, Romantik-Abende oder kleinere Feiern, wo eine persönliche, unverkrampfte Atmosphäre gewünscht ist.',
+      'card2-text': 'Die Duo-Besetzung mit Klavier oder Gitarre ist ideal für Geburtstage, Hochzeiten, Vernissagen oder kleinere Feiern, wo eine persönliche, unverkrampfte Atmosphäre gewünscht ist.',
       'card3-title': 'Die volle Band',
       'card3-text': 'Für Events, die richtig "grooven" dürfen. Mit Schlagzeug, Bass, Gesang und Gitarre/Klavier entsteht ein volles Klangbild, das jede Party zum Highlight macht.',
+      'audio-title': 'Duo hören',
+      'audio-subtitle': 'Duo mit Felix Mross (piano) und Dieter Mross (saxofon, vocals).',
+      'audio-wrapper-aria': 'Audio-Player für das Duo',
+      'audio-seek-aria': 'Position im Song',
+      'audio-play': 'Abspielen',
+      'audio-pause': 'Pausieren',
       'benefits-title': 'Ihr Vorteil bei der Buchung von Dieter Mross',
       'benefit1-title': 'Vielseitiges Repertoire',
       'benefit1-text': 'Ob klassischer Jazz, erdiger Blues, lateinamerikanische Rhythmen oder moderne Pop-Hits – es wird jeden Geschmack treffen.',
@@ -59,7 +65,7 @@
       'nav-benefits': 'Benefits',
       'nav-contact': 'Contact',
       'hero-subtitle': 'Saxophonist · Baden-Württemberg',
-      'hero-title': 'Dieter Mross –<br>Professional Saxophonist<br>for Your Event<br>',
+      'hero-title': 'Dieter Mross –<br>Professional Saxophonist<br>for Your Event',
       'hero-text': 'Excellent saxophone entertainment for any occasion: from intimate evening events to large weddings and birthdays. Flexible repertoire, professional performances, and musical versatility.',
       'hero-btn': 'Inquire now',
       'video-title': 'Impressions & Live Recordings',
@@ -74,9 +80,15 @@
       'card1-title': 'Solo Performance with Playalongs',
       'card1-text': 'Intimate saxophone solo, supported by over <strong>400 high-quality playalongs</strong> from pop, jazz, samba, Latin, and film music. Perfect for cocktail parties, background music at receptions, or restaurant settings.',
       'card2-title': 'The Duo',
-      'card2-text': 'The elegant combination of saxophone with guitar or piano. Ideal for weddings, romantic evenings, or smaller celebrations where a personal, relaxed atmosphere is desired.',
+      'card2-text': 'The duo line-up with piano or guitar is ideal for birthdays, weddings, vernissages, or smaller celebrations where a personal, relaxed atmosphere is desired.',
       'card3-title': 'The Full Band',
       'card3-text': 'For events that are meant to groove. With drums, bass, vocals, and guitar/piano, a rich sound is created that turns any party into a highlight.',
+      'audio-title': 'Listen to the Duo',
+      'audio-subtitle': 'Duo with Felix Mross (piano) and Dieter Mross (saxophone, vocals).',
+      'audio-wrapper-aria': 'Audio player for the duo',
+      'audio-seek-aria': 'Song position',
+      'audio-play': 'Play',
+      'audio-pause': 'Pause',
       'benefits-title': 'Your Advantage When Booking Dieter Mross',
       'benefit1-title': 'Versatile Repertoire',
       'benefit1-text': 'Whether classic jazz, earthy blues, Latin American rhythms, or modern pop hits – it will suit every taste.',
@@ -101,7 +113,7 @@
       'nav-benefits': 'Beneficios',
       'nav-contact': 'Contacto',
       'hero-subtitle': 'Saxofonista · Baden-Württemberg',
-      'hero-title': 'Dieter Mross –<br>saxofonista profesional<br>para su evento<br>',
+      'hero-title': 'Dieter Mross –<br>saxofonista profesional<br>para su evento',
       'hero-text': 'Excelente entretenimiento con saxofón para cualquier ocasión: desde eventos íntimos por la noche hasta grandes bodas y cumpleaños. Repertorio flexible, actuaciones profesionales y versatilidad musical.',
       'hero-btn': 'Consultar ahora',
       'video-title': 'Impresiones y grabaciones en vivo',
@@ -116,9 +128,15 @@
       'card1-title': 'Actuación en solitario con pistas',
       'card1-text': 'Íntimo solo de saxofón, apoyado por más de <strong>400 pistas de acompañamiento de alta calidad</strong> de pop, jazz, samba, latín y música de cine. Perfecto para cócteles, música ambiental en recepciones o entornos gastronómicos.',
       'card2-title': 'El dúo',
-      'card2-text': 'La elegante combinación de saxofón con guitarra o piano. Ideal para bodas, veladas románticas o celebraciones pequeñas donde se desea un ambiente personal y relajado.',
+      'card2-text': 'La formación de dúo con piano o guitarra es ideal para cumpleaños, bodas, inauguraciones o celebraciones pequeñas donde se desea un ambiente personal y relajado.',
       'card3-title': 'La banda completa',
       'card3-text': 'Para eventos que deben "groovear". Con batería, bajo, voz y guitarra/piano se crea un sonido completo que convierte cualquier fiesta en un punto culminante.',
+      'audio-title': 'Escuchar el dúo',
+      'audio-subtitle': 'Dúo con Felix Mross (piano) y Dieter Mross (saxofón, voces).',
+      'audio-wrapper-aria': 'Reproductor de audio para el dúo',
+      'audio-seek-aria': 'Posición de la canción',
+      'audio-play': 'Reproducir',
+      'audio-pause': 'Pausar',
       'benefits-title': 'Su ventaja al contratar a Dieter Mross',
       'benefit1-title': 'Repertorio versátil',
       'benefit1-text': 'Ya sea jazz clásico, blues terroso, ritmos latinoamericanos o éxitos pop modernos – se adaptará a todos los gustos.',
@@ -183,6 +201,72 @@
     });
   }
 
+  var audio = document.getElementById('duoAudio');
+  var audioButton = document.getElementById('audioToggle');
+  var audioLabel = document.getElementById('audioStateLabel');
+  var audioTime = document.getElementById('audioTime');
+  var audioDuration = document.getElementById('audioDuration');
+  var audioSeek = document.getElementById('audioSeek');
+
+  function formatTime(seconds) {
+    if (!isFinite(seconds) || seconds < 0) return '0:00';
+    var mins = Math.floor(seconds / 60);
+    var secs = Math.floor(seconds % 60);
+    return mins + ':' + String(secs).padStart(2, '0');
+  }
+
+  function syncAudioUI() {
+    if (!audio || !audioButton || !audioLabel) return;
+    var playing = !audio.paused;
+    audioButton.classList.toggle('is-playing', playing);
+    var label = playing ? translations[currentLang]['audio-pause'] : translations[currentLang]['audio-play'];
+    audioLabel.textContent = label;
+    audioButton.setAttribute('aria-label', label);
+  }
+
+  function syncSeekUI() {
+    if (!audioSeek || !audio || !audio.duration) return;
+    var percent = (audio.currentTime / audio.duration) * 100;
+    var fill = 'linear-gradient(90deg, var(--gold) 0%, var(--gold-light) ' + percent + '%, rgba(196, 148, 61, 0.18) ' + percent + '%, rgba(196, 148, 61, 0.18) 100%)';
+    audioSeek.style.background = fill;
+    audioSeek.value = String(Math.round(percent * 10));
+  }
+
+  if (audio && audioButton) {
+    audioButton.addEventListener('click', function () {
+      if (audio.paused) {
+        audio.play();
+      } else {
+        audio.pause();
+      }
+    });
+
+    audio.addEventListener('loadedmetadata', function () {
+      audioDuration.textContent = formatTime(audio.duration);
+    });
+
+    audio.addEventListener('timeupdate', function () {
+      audioTime.textContent = formatTime(audio.currentTime);
+      syncSeekUI();
+    });
+
+    if (audioSeek) {
+      audioSeek.addEventListener('input', function () {
+        if (!audio.duration) return;
+        var percent = Number(audioSeek.value) / 10;
+        audio.currentTime = (percent / 100) * audio.duration;
+        syncSeekUI();
+      });
+    }
+
+    audio.addEventListener('play', syncAudioUI);
+    audio.addEventListener('pause', syncAudioUI);
+    audio.addEventListener('ended', function () {
+      audio.currentTime = 0;
+      syncAudioUI();
+    });
+  }
+
   document.querySelectorAll('.lang-btn').forEach(function (btn) {
     btn.addEventListener('click', function () {
       switchLang(this.getAttribute('data-lang'));
@@ -190,6 +274,8 @@
   });
 
   switchLang(currentLang);
+  syncAudioUI();
+  syncSeekUI();
 
   var toggle = document.querySelector('.header__toggle');
   var nav = document.querySelector('.header__nav');

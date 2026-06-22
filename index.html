@@ -45,7 +45,7 @@
       <div class="container hero__inner">
         <div class="hero__content">
           <span class="hero__subtitle" data-i18n="hero-subtitle">Saxophonist · Baden-Württemberg</span>
-          <h1 class="hero__title" data-i18n="hero-title">Dieter Mross –<br>Professioneller Saxophonist<br>für Ihre Veranstaltung<br>in Süddeutschland</h1>
+          <h1 class="hero__title" data-i18n="hero-title">Dieter Mross –<br>Professioneller Saxophonist<br>für Ihre Veranstaltung</h1>
           <p class="hero__text" data-i18n="hero-text">Exzellente Saxophon-Unterhaltung für jeden Anlass: Von intimen Abendveranstaltungen bis hin zu großen Hochzeiten und Geburtstagen. Flexibles Repertoire, professionelle Auftritte und musikalische Vielseitigkeit.</p>
           <a href="#contact" class="btn btn--primary" data-i18n="hero-btn">Unverbindlich anfragen</a>
         </div>
@@ -100,16 +100,41 @@
             <h3 class="card__title" data-i18n="card1-title">Solo-Performance mit Playalongs</h3>
             <p class="card__text" data-i18n="card1-text">Intimes Saxophon-Solo, unterstützt mit über <strong>400 hochwertigen Playalongs</strong> aus den Bereichen Pop, Jazz, Samba, Latin und Filmmusik. Perfekt für Cocktail-Partys, Hintergrundmusik bei Empfängen oder gastronomische Umgebungen.</p>
           </article>
-          <article class="card">
-            <div class="card__icon">🎸</div>
+            <article class="card">
+              <div class="card__icon">🎸</div>
             <h3 class="card__title" data-i18n="card2-title">Das Duo</h3>
-            <p class="card__text" data-i18n="card2-text">Die elegante Kombination aus Saxophon und Gitarre oder Klavier. Ideal für Hochzeiten, Romantik-Abende oder kleinere Feiern, wo eine persönliche, unverkrampfte Atmosphäre gewünscht ist.</p>
-          </article>
+            <p class="card__text" data-i18n="card2-text">Die Duo-Besetzung mit Klavier oder Gitarre ist ideal für Geburtstage, Hochzeiten, Vernissagen oder kleinere Feiern, wo eine persönliche, unverkrampfte Atmosphäre gewünscht ist.</p>
+            </article>
           <article class="card">
             <div class="card__icon">🎶</div>
             <h3 class="card__title" data-i18n="card3-title">Die volle Band</h3>
             <p class="card__text" data-i18n="card3-text">Für Events, die richtig "grooven" dürfen. Mit Schlagzeug, Bass, Gesang und Gitarre/Klavier entsteht ein volles Klangbild, das jede Party zum Highlight macht.</p>
           </article>
+        </div>
+        <div class="audio-player" aria-label="Audio player" data-i18n-aria="audio-wrapper-aria">
+          <div class="audio-player__meta">
+            <span class="audio-player__eyebrow" data-i18n="audio-title">Duo hören</span>
+            <span class="audio-player__subline" data-i18n="audio-subtitle">Duo mit Felix Mross (piano) und Dieter Mross (saxofon, vocals).</span>
+          </div>
+          <div class="audio-player__controls">
+            <button class="audio-player__button" id="audioToggle" type="button" aria-label="Abspielen">
+              <svg class="audio-player__icon audio-player__icon--play" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+                <path d="M8 5v14l11-7z"></path>
+              </svg>
+              <svg class="audio-player__icon audio-player__icon--pause" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+                <path d="M6 5h4v14H6zM14 5h4v14h-4z"></path>
+              </svg>
+              <span id="audioStateLabel" data-i18n="audio-play">Abspielen</span>
+            </button>
+            <div class="audio-player__timeline">
+              <input class="audio-player__seek" id="audioSeek" type="range" min="0" max="1000" value="0" step="1" aria-label="Song position" data-i18n-aria="audio-seek-aria">
+              <div class="audio-player__times">
+                <span id="audioTime">0:00</span>
+                <span id="audioDuration">0:00</span>
+              </div>
+            </div>
+          </div>
+          <audio id="duoAudio" preload="metadata" src="Audio/Duo.mp3"></audio>
         </div>
       </div>
     </section>
